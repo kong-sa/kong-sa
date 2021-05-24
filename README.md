@@ -1,4 +1,4 @@
-# kong-sa
+# shiramashiro
 喜欢混二次元圈子，正在努力提升自己的知识中...
 
 博客地址：https://www.cnblogs.com/kongsam/
